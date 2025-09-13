@@ -56,36 +56,3 @@ tailwind.config.ts
 vite.config.ts
 package.json
 
-⚡ Getting Started
-Prerequisites
-
-Node.js 18+
-
-npm or yarn
-
-Installation
-git clone <your-repo-url>
-cd resumind
-npm install
-
-Development
-npm run dev
-
-
-👉 Open http://localhost:5173
-
-Production Build
-npm run build
-npm run preview
-
-📖 Usage
-
-🔐 Sign in (Puter.js authentication)
-
-📂 Upload a PDF resume
-
-🏢 Enter job details (company, title, description)
-
-⚙️ Run AI Analysis → feedback + scores
-
-📊 Review results and iterate
